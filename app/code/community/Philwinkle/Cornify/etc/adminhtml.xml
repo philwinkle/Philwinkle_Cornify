@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- Remove this file if your module does not have an admin interface -->
+<config>
+    <menu>
+    </menu>
+    <acl>
+        <resources>
+        </resources>
+    </acl>
+</config>

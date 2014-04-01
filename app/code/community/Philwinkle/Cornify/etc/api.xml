@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Remove this file if your module does not have profide an api -->
+<config>
+    <api>
+        <resources>
+        </resources>
+        <v2>
+        </v2>
+        <acl>
+            <resources>
+            </resources>
+        </acl>
+    </api>
+</config>
